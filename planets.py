@@ -1,4 +1,4 @@
-# pplanet_list = ["Mercury", "Mars"]
+# planet_list = ["Mercury", "Mars"]
 
 import random
 
